@@ -1,0 +1,343 @@
+enum:
+
+  # GB/T 3304-1991
+  unidom_china_ethnicity_alphabetic:
+    han:
+      code: HA
+      numeric_code: '01'
+    mongol:
+      code: MG
+      numeric_code: '02'
+    hui:
+      code: HU
+      numeric_code: '03'
+    tibetan:
+      code: ZA
+      numeric_code: '04'
+    uygur:
+      code: UG
+      numeric_code: '05'
+    miao:
+      code: MH
+      numeric_code: '06'
+    yi:
+      code: YI
+      numeric_code: '07'
+    zhuang:
+      code: ZH
+      numeric_code: '08'
+    buyei:
+      code: BY
+      numeric_code: '09'
+    korean:
+      code: CS
+      numeric_code: '10'
+    man:
+      code: MA
+      numeric_code: '11'
+    dong:
+      code: DO
+      numeric_code: '12'
+    yao:
+      code: YA
+      numeric_code: '13'
+    bai:
+      code: BA
+      numeric_code: '14'
+    tujia:
+      code: TJ
+      numeric_code: '15'
+    hani:
+      code: HN
+      numeric_code: '16'
+    kazak:
+      code: KZ
+      numeric_code: '17'
+    dai:
+      code: DA
+      numeric_code: '18'
+    li:
+      code: LI
+      numeric_code: '19'
+    lisu:
+      code: LS
+      numeric_code: '20'
+    va:
+      code: VA
+      numeric_code: '21'
+    she:
+      code: SH
+      numeric_code: '22'
+    gaoshan:
+      code: GS
+      numeric_code: '23'
+    lahu:
+      code: LH
+      numeric_code: '24'
+    sui:
+      code: SU
+      numeric_code: '25'
+    dongxiang:
+      code: DX
+      numeric_code: '26'
+    nazi:
+      code: NX
+      numeric_code: '27'
+    jingpo:
+      code: JP
+      numeric_code: '28'
+    kirgiz:
+      code: KG
+      numeric_code: '29'
+    tu:
+      code: TU
+      numeric_code: '30'
+    daur:
+      code: DU
+      numeric_code: '31'
+    mulao:
+      code: ML
+      numeric_code: '32'
+    qiang:
+      code: QI
+      numeric_code: '33'
+    blang:
+      code: BL
+      numeric_code: '34'
+    salar:
+      code: SL
+      numeric_code: '35'
+    maonan:
+      code: MN
+      numeric_code: '36'
+    gelao:
+      code: GL
+      numeric_code: '37'
+    xibe:
+      code: XB
+      numeric_code: '38'
+    achang:
+      code: AC
+      numeric_code: '39'
+    pumi:
+      code: PM
+      numeric_code: '40'
+    tajik:
+      code: TA
+      numeric_code: '41'
+    nu:
+      code: NU
+      numeric_code: '42'
+    uzbek:
+      code: UZ
+      numeric_code: '43'
+    russ:
+      code: RS
+      numeric_code: '44'
+    ewenki:
+      code: EW
+      numeric_code: '45'
+    deang:
+      code: DE
+      numeric_code: '46'
+    bonan:
+      code: BN
+      numeric_code: '47'
+    yugur:
+      code: YG
+      numeric_code: '48'
+    gin:
+      code: GI
+      numeric_code: '49'
+    tatar:
+      code: TT
+      numeric_code: '50'
+    derung:
+      code: DR
+      numeric_code: '51'
+    oroqen:
+      code: OR
+      numeric_code: '52'
+    hezhen:
+      code: HZ
+      numeric_code: '53'
+    monba:
+      code: MB
+      numeric_code: '54'
+    lhoba:
+      code: LB
+      numeric_code: '55'
+    jino:
+      code: JN
+      numeric_code: '56'
+
+  # GB/T 3304-1991
+  unidom_china_ethnicity_numeric:
+    han:
+      code: '01'
+      alphabetic_code: HA
+    mongol:
+      code: '02'
+      alphabetic_code: MG
+    hui:
+      code: '03'
+      alphabetic_code: HU
+    tibetan:
+      code: '04'
+      alphabetic_code: ZA
+    uygur:
+      code: '05'
+      alphabetic_code: UG
+    miao:
+      code: '06'
+      alphabetic_code: MH
+    yi:
+      code: '07'
+      alphabetic_code: YI
+    zhuang:
+      code: '08'
+      alphabetic_code: ZH
+    buyei:
+      code: '09'
+      alphabetic_code: BY
+    korean:
+      code: '10'
+      alphabetic_code: CS
+    man:
+      code: '11'
+      alphabetic_code: MA
+    dong:
+      code: '12'
+      alphabetic_code: DO
+    yao:
+      code: '13'
+      alphabetic_code: YA
+    bai:
+      code: '14'
+      alphabetic_code: BA
+    tujia:
+      code: '15'
+      alphabetic_code: TJ
+    hani:
+      code: '16'
+      alphabetic_code: HN
+    kazak:
+      code: '17'
+      alphabetic_code: KZ
+    dai:
+      code: '18'
+      alphabetic_code: DA
+    li:
+      code: '19'
+      alphabetic_code: LI
+    lisu:
+      code: '20'
+      alphabetic_code: LS
+    va:
+      code: '21'
+      alphabetic_code: VA
+    she:
+      code: '22'
+      alphabetic_code: SH
+    gaoshan:
+      code: '23'
+      alphabetic_code: GS
+    lahu:
+      code: '24'
+      alphabetic_code: LH
+    sui:
+      code: '25'
+      alphabetic_code: SU
+    dongxiang:
+      code: '26'
+      alphabetic_code: DX
+    nazi:
+      code: '27'
+      alphabetic_code: NX
+    jingpo:
+      code: '28'
+      alphabetic_code: JP
+    kirgiz:
+      code: '29'
+      alphabetic_code: KG
+    tu:
+      code: '30'
+      alphabetic_code: TU
+    daur:
+      code: '31'
+      alphabetic_code: DU
+    mulao:
+      code: '32'
+      alphabetic_code: ML
+    qiang:
+      code: '33'
+      alphabetic_code: QI
+    blang:
+      code: '34'
+      alphabetic_code: BL
+    salar:
+      code: '35'
+      alphabetic_code: SL
+    maonan:
+      code: '36'
+      alphabetic_code: MN
+    gelao:
+      code: '37'
+      alphabetic_code: GL
+    xibe:
+      code: '38'
+      alphabetic_code: XB
+    achang:
+      code: '39'
+      alphabetic_code: AC
+    pumi:
+      code: '40'
+      alphabetic_code: PM
+    tajik:
+      code: '41'
+      alphabetic_code: TA
+    nu:
+      code: '42'
+      alphabetic_code: NU
+    uzbek:
+      code: '43'
+      alphabetic_code: UZ
+    russ:
+      code: '44'
+      alphabetic_code: RS
+    ewenki:
+      code: '45'
+      alphabetic_code: EW
+    deang:
+      code: '46'
+      alphabetic_code: DE
+    bonan:
+      code: '47'
+      alphabetic_code: BN
+    yugur:
+      code: '48'
+      alphabetic_code: YG
+    gin:
+      code: '49'
+      alphabetic_code: GI
+    tatar:
+      code: '50'
+      alphabetic_code: TT
+    derung:
+      code: '51'
+      alphabetic_code: DR
+    oroqen:
+      code: '52'
+      alphabetic_code: OR
+    hezhen:
+      code: '53'
+      alphabetic_code: HZ
+    monba:
+      code: '54'
+      alphabetic_code: MB
+    lhoba:
+      code: '55'
+      alphabetic_code: LB
+    jino:
+      code: '56'
+      alphabetic_code: JN
