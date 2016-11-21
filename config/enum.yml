@@ -341,3 +341,23 @@ enum:
     jino:
       code: '56'
       alphabetic_code: JN
+
+  # GB/T 4766-1984 ->
+  # GB/T 2261.2-2003
+  unidom_china_marital_status:
+    unmarried:
+      code: '10'
+    married:
+      code: '20'
+    first_marriage:
+      code: '21'
+    remarriage:
+      code: '22'
+    former_marriage_restoration:
+      code: '23'
+    widowed:
+      code: '30'
+    divorce:
+      code: '40'
+    unspecified:
+      code: '90'
