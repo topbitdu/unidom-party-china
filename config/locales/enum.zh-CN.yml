@@ -59,3 +59,15 @@
       yi:        彝族
       yugur:     裕固族
       zhuang:    壮族
+
+    # GB/T 4766-1984 ->
+    # GB/T 2261.2-2003
+    unidom_china_marital_status:
+      unmarried:                   未婚
+      married:                     已婚
+      first_marriage:              初婚
+      remarriage:                  再婚
+      former_marriage_restoration: 复婚
+      widowed:                     丧偶
+      divorce:                     离婚
+      unspecified:                 未说明的婚姻状况
