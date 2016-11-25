@@ -6,3 +6,6 @@
 
 ## v0.2
 1. Marital Status enum code
+
+## v0.3
+1. Political Affiliation enum code
