@@ -3,3 +3,6 @@
 ## v0.1
 1. Ethnicity Alphabetic enum code
 2. Ethnicity Numeric enum code
+
+## v0.2
+1. Marital Status enum code

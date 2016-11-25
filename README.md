@@ -48,3 +48,16 @@ Unidom::Party::China::Ethnicity::Alphabetic::HAN.numeric_code # '01'
 Unidom::Party::China::Ethnicity::Numeric::HAN.code            # '01'
 Unidom::Party::China::Ethnicity::Numeric::HAN.alphabetic_code # 'HA'
 ```
+
+### Marital Status enum code
+
+```ruby
+Unidom::Party::China::MaritalStatus::UNMARRIED
+Unidom::Party::China::MaritalStatus::MARRIED
+Unidom::Party::China::MaritalStatus::FIRST_MARRIAGE
+Unidom::Party::China::MaritalStatus::REMARRIAGE
+Unidom::Party::China::MaritalStatus::FORMER_MARRIAGE_RESTORATION
+Unidom::Party::China::MaritalStatus::WIDOWED
+Unidom::Party::China::MaritalStatus::DIVORCE
+Unidom::Party::China::MaritalStatus::UNSPECIFIED
+```
