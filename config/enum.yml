@@ -361,3 +361,32 @@ enum:
       code: '40'
     unspecified:
       code: '90'
+
+  # GB/T 4762-1984
+  unidom_china_political_affiliation:
+    communist_party_member:
+      code: '01'
+    communist_party_probationary_member:
+      code: '02'
+    communist_youth_league_member:
+      code: '03'
+    kuomintang_revolutionary_committee_member:
+      code: '04'
+    democratic_league_member:
+      code: '05'
+    democratic_national_construction_association_member:
+      code: '06'
+    promoting_democracy_association_member:
+      code: '07'
+    peasants_and_worker_democratic_party_member:
+      code: '08'
+    public_interest_party_member:
+      code: '09'
+    jiusan_society_member:
+      code: '10'
+    taiwan_democratic_self_government_league_member:
+      code: '11'
+    independent_democrat:
+      code: '12'
+    masses:
+      code: '13'
