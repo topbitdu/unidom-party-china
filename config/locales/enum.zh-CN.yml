@@ -71,3 +71,19 @@
       widowed:                     丧偶
       divorce:                     离婚
       unspecified:                 未说明的婚姻状况
+
+    # GB/T 4762-1984
+    unidom_china_political_affiliation:
+      communist_party_member:                              中国共产党党员          # 中共党员
+      communist_party_probationary_member:                 中国共产党预备党员       # 中共预备党员
+      communist_youth_league_member:                       中国共产主义青年团团员   # 共青团员
+      kuomintang_revolutionary_committee_member:           中国国民党革命委员会会员 # 民革会员
+      democratic_league_member:                            中国民主同盟盟员        # 民盟盟员
+      democratic_national_construction_association_member: 中国民主建国会会员       # 民建会员
+      promoting_democracy_association_member:              中国民主促进会会员       # 民进会员
+      peasants_and_worker_democratic_party_member:         中国农工民主党党员       # 农工党党员
+      public_interest_party_member:                        中国致公党党员           # 致公党党员
+      jiusan_society_member:                               九三学社社员
+      taiwan_democratic_self_government_league_member:     台湾民主自治同盟盟员      # 台盟盟员
+      independent_democrat:                                无党派民主人士
+      masses:                                              群众
