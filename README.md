@@ -26,21 +26,21 @@ gem 'unidom-party-china'
 
 ## Enum codes
 
-### Ethnicity enum code
+### Ethnicity enum code 民族
 
 ```ruby
 # GB/T 3304-1991 有字母代码和数字代码两种代码。
 
-Unidom::Party::China::Ethnicity::Alphabetic::HAN
-Unidom::Party::China::Ethnicity::Alphabetic::MONGOL
-Unidom::Party::China::Ethnicity::Alphabetic::TIBETAN
-Unidom::Party::China::Ethnicity::Alphabetic::KOREAN
+Unidom::Party::China::Ethnicity::Alphabetic::HAN     # 汉族
+Unidom::Party::China::Ethnicity::Alphabetic::MONGOL  # 蒙古族
+Unidom::Party::China::Ethnicity::Alphabetic::TIBETAN # 藏族
+Unidom::Party::China::Ethnicity::Alphabetic::KOREAN  # 朝鲜族
 # 一共 56 个民族。
 
-Unidom::Party::China::Ethnicity::Numeric::HAN
-Unidom::Party::China::Ethnicity::Numeric::MONGOL
-Unidom::Party::China::Ethnicity::Numeric::TIBETAN
-Unidom::Party::China::Ethnicity::Numeric::KOREAN
+Unidom::Party::China::Ethnicity::Numeric::HAN     # 汉族
+Unidom::Party::China::Ethnicity::Numeric::MONGOL  # 蒙古族
+Unidom::Party::China::Ethnicity::Numeric::TIBETAN # 藏族
+Unidom::Party::China::Ethnicity::Numeric::KOREAN  # 朝鲜族
 # 一共 56 个民族。
 
 Unidom::Party::China::Ethnicity::Alphabetic::HAN.code         # 'HA'
@@ -49,20 +49,20 @@ Unidom::Party::China::Ethnicity::Numeric::HAN.code            # '01'
 Unidom::Party::China::Ethnicity::Numeric::HAN.alphabetic_code # 'HA'
 ```
 
-### Marital Status enum code
+### Marital Status enum code 婚姻状况
 
 ```ruby
-Unidom::Party::China::MaritalStatus::UNMARRIED
-Unidom::Party::China::MaritalStatus::MARRIED
-Unidom::Party::China::MaritalStatus::FIRST_MARRIAGE
-Unidom::Party::China::MaritalStatus::REMARRIAGE
-Unidom::Party::China::MaritalStatus::FORMER_MARRIAGE_RESTORATION
-Unidom::Party::China::MaritalStatus::WIDOWED
-Unidom::Party::China::MaritalStatus::DIVORCE
-Unidom::Party::China::MaritalStatus::UNSPECIFIED
+Unidom::Party::China::MaritalStatus::UNMARRIED                   # 未婚
+Unidom::Party::China::MaritalStatus::MARRIED                     # 已婚
+Unidom::Party::China::MaritalStatus::FIRST_MARRIAGE              # 初婚
+Unidom::Party::China::MaritalStatus::REMARRIAGE                  # 再婚
+Unidom::Party::China::MaritalStatus::FORMER_MARRIAGE_RESTORATION # 复婚
+Unidom::Party::China::MaritalStatus::WIDOWED                     # 丧偶
+Unidom::Party::China::MaritalStatus::DIVORCE                     # 离婚
+Unidom::Party::China::MaritalStatus::UNSPECIFIED                 # 未说明的婚姻状况
 ```
 
-### Political Affiliation enum code
+### Political Affiliation enum code 政治面貌
 
 ```ruby
 Unidom::Party::China::PoliticalAffiliation::COMMUNIST_PARTY_MEMBER                              # 中国共产党党员
