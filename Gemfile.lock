@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    unidom-party-china (0.2)
+    unidom-party-china (0.3)
       progne_tapera (>= 0.2)
       unidom-common (>= 1.7)
 
