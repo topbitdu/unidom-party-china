@@ -87,3 +87,15 @@
       taiwan_democratic_self_government_league_member:     台湾民主自治同盟盟员      # 台盟盟员
       independent_democrat:                                无党派民主人士
       masses:                                              群众
+
+    # GA 214.12-2004
+    unidom_china_religion_faith:
+      no_religion: 无宗教信仰
+      buddhism:    佛教
+      lamaism:     喇嘛教
+      taoism:      道教
+      catholicism: 天主教
+      christian:   基督教
+      orthodox:    东正教
+      islam:       伊斯兰教
+      other:       其他
