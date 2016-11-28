@@ -390,3 +390,24 @@ enum:
       code: '12'
     masses:
       code: '13'
+
+  # GA 214.12-2004
+  unidom_china_religion_faith:
+    no_religion:
+      code: '00'
+    buddhism:
+      code: '10'
+    lamaism:
+      code: '20'
+    taoism:
+      code: '30'
+    catholicism:
+      code: '40'
+    christian:
+      code: '50'
+    orthodox:
+      code: '60'
+    islam:
+      code: '70'
+    other:
+      code: '99'
