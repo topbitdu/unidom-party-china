@@ -9,3 +9,6 @@
 
 ## v0.3
 1. Political Affiliation enum code
+
+## v0.4
+1. Religion Faith enum code
