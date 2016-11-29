@@ -79,3 +79,17 @@ Unidom::Party::China::PoliticalAffiliation::TAIWAN_DEMOCRATIC_SELF_GOVERNMENT_LE
 Unidom::Party::China::PoliticalAffiliation::INDEPENDENT_DEMOCRAT                                # 无党派民主人士
 Unidom::Party::China::PoliticalAffiliation::MASSES                                              # 群众
 ```
+
+### Religion Faith enum code 宗教信仰
+
+```ruby
+Unidom::Party::China::ReligionFaith::NO_RELIGION # 无宗教信仰
+Unidom::Party::China::ReligionFaith::BUDDHISM    # 佛教
+Unidom::Party::China::ReligionFaith::LAMAISM     # 喇嘛教
+Unidom::Party::China::ReligionFaith::TAOISM      # 道教
+Unidom::Party::China::ReligionFaith::CATHOLICISM # 天主教
+Unidom::Party::China::ReligionFaith::CHRISTIAN   # 基督教
+Unidom::Party::China::ReligionFaith::ORTHODOX    # 东正教
+Unidom::Party::China::ReligionFaith::ISLAM       # 伊斯兰教
+Unidom::Party::China::ReligionFaith::OTHER       # 其他
+```
