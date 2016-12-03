@@ -15,4 +15,4 @@
 
 ## v0.4.1
 1. Improved the Ruby Gem Specification to depend on [unidom-common](https://github.com/topbitdu/unidom-common) v1.7.1
-2. Improve the Ruby Gem Specification to never depend on [progne_tapera](https://github.com/topbitdu/progne_tapera)
+2. Improved the Ruby Gem Specification to never depend on [progne_tapera](https://github.com/topbitdu/progne_tapera)
