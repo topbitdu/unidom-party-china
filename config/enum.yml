@@ -411,3 +411,91 @@ enum:
       code: '70'
     other:
       code: '99'
+
+  # GB/T 4658-2006
+  unidom_china_formal_schooling:
+
+    postgraduate_education:
+      code: '10'
+    doctor_graduation:
+      code: '11'
+    doctor_completion:
+      code: '12'
+    doctor_incomplete_attendance:
+      code: '13'
+    master_graduation:
+      code: '14'
+    master_completion:
+      code: '15'
+    master_incomplete_attendance:
+      code: '16'
+    graduate_class_graduation:
+      code: '17'
+    graduate_class_completion:
+      code: '18'
+    graduate_class_incomplete_attendance:
+      code: '19'
+
+    university_college_education:
+      code: '20'
+    university_graduation:
+      code: '21'
+    university_completion:
+      code: '22'
+    university_incomplete_attendance:
+      code: '23'
+    undergraduate_class_graduation:
+      code: '28'
+    college_graduation:
+      code: '31'
+    college_completion:
+      code: '32'
+    college_incomplete_attendance:
+      code: '33'
+
+    secondary_vocational_education:
+      code: '40'
+    secondary_specialized_school_graduation:
+      code: '41'
+    secondary_specialized_school_completion:
+      code: '42'
+    secondary_specialized_school_incomplete_attendance:
+      code: '43'
+    vocational_high_school_graduation:
+      code: '44'
+    vocational_high_school_completion:
+      code: '45'
+    vocational_high_school_incomplete_attendance:
+      code: '46'
+    technician_school_graduation:
+      code: '47'
+    technician_school_completion:
+      code: '48'
+    technician_school_incomplete_attendance:
+      code: '49'
+
+    senior_school_education:
+      code: '60'
+    senior_school_graduation:
+      code: '61'
+    senior_school_completion:
+      code: '62'
+    senior_school_incomplete_attendance:
+      code: '63'
+
+    junior_school_education:
+      code: '70'
+    junior_school_graduation:
+      code: '71'
+    junior_school_incomplete_attendance:
+      code: '73'
+
+    primary_school_education:
+      code: '80'
+    primary_school_graduation:
+      code: '81'
+    primary_school_incomplete_attendance:
+      code: '83'
+
+    other:
+      code: '90'
