@@ -99,3 +99,52 @@
       orthodox:    东正教
       islam:       伊斯兰教
       other:       其他
+
+    # GB/T 4658-2006
+    unidom_china_formal_schooling:
+
+      postgraduate_education:               研究生教育
+      doctor_graduation:                    博士研究生毕业
+      doctor_completion:                    博士研究生结业
+      doctor_incomplete_attendance:         博士研究生肄业
+      master_graduation:                    硕士研究生毕业
+      master_completion:                    硕士研究生结业
+      master_incomplete_attendance:         硕士研究生肄业
+      graduate_class_graduation:            研究生班毕业
+      graduate_class_completion:            研究生班结业
+      graduate_class_incomplete_attendance: 研究生班肄业
+
+      university_college_education:     大学本科／专科教育
+      university_graduation:            大学本科毕业
+      university_completion:            大学本科结业
+      university_incomplete_attendance: 大学本科肄业
+      undergraduate_class_graduation:   大学普通班毕业
+      college_graduation:               大学专科毕业
+      college_completion:               大学专科结业
+      college_incomplete_attendance:    大学专科肄业
+
+      secondary_vocational_education:                     中等职业教育
+      secondary_specialized_school_graduation:            中等专科毕业
+      secondary_specialized_school_completion:            中等专科结业
+      secondary_specialized_school_incomplete_attendance: 中等专科肄业
+      vocational_high_school_graduation:                  职业高中毕业
+      vocational_high_school_completion:                  职业高中结业
+      vocational_high_school_incomplete_attendance:       职业高中肄业
+      technician_school_graduation:                       技工学校毕业
+      technician_school_completion:                       技工学校结业
+      technician_school_incomplete_attendance:            技工学校肄业
+
+      senior_school_education:             普通高级中学教育
+      senior_school_graduation:            普通高中毕业
+      senior_school_completion:            普通高中结业
+      senior_school_incomplete_attendance: 普通高中肄业
+
+      junior_school_education:             初级中学教育
+      junior_school_graduation:            初中毕业
+      junior_school_incomplete_attendance: 初中肄业
+
+      primary_school_education:             小学教育
+      primary_school_graduation:            小学毕业
+      primary_school_incomplete_attendance: 小学肄业
+
+      other: 其他
