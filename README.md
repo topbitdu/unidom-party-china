@@ -93,3 +93,16 @@ Unidom::Party::China::ReligionFaith::ORTHODOX    # 东正教
 Unidom::Party::China::ReligionFaith::ISLAM       # 伊斯兰教
 Unidom::Party::China::ReligionFaith::OTHER       # 其他
 ```
+
+### Formal Schooling enum code 学历
+
+```ruby
+Unidom::Party::China::FormalSchooling::POSTGRADUATE_EDUCATION         # 研究生教育
+Unidom::Party::China::FormalSchooling::UNIVERSITY_COLLEGE_EDUCATION   # 大学本科／专科教育
+Unidom::Party::China::FormalSchooling::SECONDARY_VOCATIONAL_EDUCATION # 中等职业教育
+Unidom::Party::China::FormalSchooling::SENIOR_SCHOOL_EDUCATION        # 普通高级中学教育
+Unidom::Party::China::FormalSchooling::JUNIOR_SCHOOL_EDUCATION        # 初级中学教育
+Unidom::Party::China::FormalSchooling::PRIMARY_SCHOOL_EDUCATION       # 小学教育
+Unidom::Party::China::FormalSchooling::OTHER                          # 其他
+# 一共 39 个学历。
+```
