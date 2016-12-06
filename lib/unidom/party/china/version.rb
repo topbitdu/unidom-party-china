@@ -1,7 +1,7 @@
 module Unidom
   module Party
     module China
-      VERSION = '0.4.1'.freeze
+      VERSION = '0.5'.freeze
     end
   end
 end
