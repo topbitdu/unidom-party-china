@@ -148,3 +148,12 @@
       primary_school_incomplete_attendance: 小学肄业
 
       other: 其他
+
+    # GA/T 2000.37-2014
+    unidom_china_blood_group:
+      unspecified: 不明
+      a_type:      A型
+      b_type:      B型
+      o_type:      O型
+      ab_type:     AB型
+      other:       其他
