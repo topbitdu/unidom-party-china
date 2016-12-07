@@ -499,3 +499,18 @@ enum:
 
     other:
       code: '90'
+
+  # GA/T 2000.37-2014
+  unidom_china_blood_group:
+    unspecified:
+      code: '0'
+    a_type:
+      code: '1'
+    b_type:
+      code: '2'
+    o_type:
+      code: '3'
+    ab_type:
+      code: '4'
+    other:
+      code: '9'
