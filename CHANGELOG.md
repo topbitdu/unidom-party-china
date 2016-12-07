@@ -19,3 +19,6 @@
 
 ## v0.5
 1. Formal Schooling enum code
+
+## v0.6
+1. Blood Group enum code

@@ -52,6 +52,7 @@ Unidom::Party::China::Ethnicity::Numeric::HAN.alphabetic_code # 'HA'
 ### Marital Status enum code 婚姻状况
 
 ```ruby
+# GB/T 2261.2-2003
 Unidom::Party::China::MaritalStatus::UNMARRIED                   # 未婚
 Unidom::Party::China::MaritalStatus::MARRIED                     # 已婚
 Unidom::Party::China::MaritalStatus::FIRST_MARRIAGE              # 初婚
@@ -65,6 +66,7 @@ Unidom::Party::China::MaritalStatus::UNSPECIFIED                 # 未说明的�
 ### Political Affiliation enum code 政治面貌
 
 ```ruby
+# GB/T 4762-1984
 Unidom::Party::China::PoliticalAffiliation::COMMUNIST_PARTY_MEMBER                              # 中国共产党党员
 Unidom::Party::China::PoliticalAffiliation::COMMUNIST_PARTY_PROBATIONARY_MEMBER                 # 中国共产党预备党员
 Unidom::Party::China::PoliticalAffiliation::COMMUNIST_YOUTH_LEAGUE_MEMBER                       # 中国共产主义青年团团员
@@ -83,6 +85,7 @@ Unidom::Party::China::PoliticalAffiliation::MASSES                              
 ### Religion Faith enum code 宗教信仰
 
 ```ruby
+# GA 214.12-2004
 Unidom::Party::China::ReligionFaith::NO_RELIGION # 无宗教信仰
 Unidom::Party::China::ReligionFaith::BUDDHISM    # 佛教
 Unidom::Party::China::ReligionFaith::LAMAISM     # 喇嘛教
@@ -97,6 +100,7 @@ Unidom::Party::China::ReligionFaith::OTHER       # 其他
 ### Formal Schooling enum code 学历
 
 ```ruby
+# GB/T 4658-2006
 Unidom::Party::China::FormalSchooling::POSTGRADUATE_EDUCATION         # 研究生教育
 Unidom::Party::China::FormalSchooling::UNIVERSITY_COLLEGE_EDUCATION   # 大学本科／专科教育
 Unidom::Party::China::FormalSchooling::SECONDARY_VOCATIONAL_EDUCATION # 中等职业教育
@@ -105,4 +109,16 @@ Unidom::Party::China::FormalSchooling::JUNIOR_SCHOOL_EDUCATION        # 初级�
 Unidom::Party::China::FormalSchooling::PRIMARY_SCHOOL_EDUCATION       # 小学教育
 Unidom::Party::China::FormalSchooling::OTHER                          # 其他
 # 一共 39 个学历。
+```
+
+### Blood Group enum code 血型
+
+```ruby
+# GA/T 2000.37-2014
+Unidom::Party::China::BloodGroup::UNSPECIFIED # 不明
+Unidom::Party::China::BloodGroup::A_TYPE      # A型
+Unidom::Party::China::BloodGroup::B_TYPE      # B型
+Unidom::Party::China::BloodGroup::O_TYPE      # O型
+Unidom::Party::China::BloodGroup::AB_TYPE     # AB型
+Unidom::Party::China::BloodGroup::OTHER       # 其他
 ```
