@@ -514,3 +514,13 @@ enum:
       code: '4'
     other:
       code: '9'
+
+  unidom_china_business_registration:
+    domestically_funded_company:
+      code: '100'
+    taiwan_hk_macao_funded_enterprise:
+      code: '200'
+    foreign_funded_enterprise:
+      code: '300'
+    self_employed_business:
+      code: '400'
