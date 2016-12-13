@@ -157,3 +157,16 @@
       o_type:      O型
       ab_type:     AB型
       other:       其他
+
+    unidom_china_business_registration:
+      domestically_funded_company:       内资企业
+      #state_owned_enterprise: 国有企业
+      #collective_enterprise:  集体企业
+      #joint_stock_enterprise: 股份合作企业
+      #joint_venture_enterprise: 联营企业
+      #state_owned_joint_venture_enterprise: 国有联营企业
+      #collective_joint_venture_enterprise:  集体联营企业
+      #state_owned_and_collective_joint_venture_enterprise: 国有与集体联营企业
+      taiwan_hk_macao_funded_enterprise: 港、澳、台商投资企业
+      foreign_funded_enterprise:         外商投资企业
+      self_employed_business:            个体经营
