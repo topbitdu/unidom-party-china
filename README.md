@@ -122,3 +122,12 @@ Unidom::Party::China::BloodGroup::O_TYPE      # O型
 Unidom::Party::China::BloodGroup::AB_TYPE     # AB型
 Unidom::Party::China::BloodGroup::OTHER       # 其他
 ```
+
+### Business Registration enum code 工商注册
+
+```ruby
+Unidom::Party::China::BusinessRegistration::DOMESTICALLY_FUNDED_COMPANY       # 内资企业
+Unidom::Party::China::BusinessRegistration::TAIWAN_HK_MACAO_FUNDED_ENTERPRISE # 港、澳、台商投资企业
+Unidom::Party::China::BusinessRegistration::FOREIGN_FUNDED_ENTERPRISE         # 外商投资企业
+Unidom::Party::China::BusinessRegistration::SELF_EMPLOYED_BUSINESS            # 个体经营
+```

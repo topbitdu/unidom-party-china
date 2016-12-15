@@ -22,3 +22,6 @@
 
 ## v0.6
 1. Blood Group enum code
+
+## v0.7
+1. Business Registration enum code
