@@ -4,8 +4,8 @@
 [![Gem Version](https://badge.fury.io/rb/unidom-party-china.svg)](https://badge.fury.io/rb/unidom-party-china)
 [![Dependency Status](https://gemnasium.com/badges/github.com/topbitdu/unidom-party-china.svg)](https://gemnasium.com/github.com/topbitdu/unidom-party-china)
 
-Unidom (UNIfied Domain Object Model) is a series of domain model engines. The China Party domain model engine includes the Ethnicity enum code and the Marital Status enum code.
-Unidom (统一领域对象模型)是一系列的领域模型引擎。中国参与者领域模型引擎包括民族、婚姻状况枚举编码。
+Unidom (UNIfied Domain Object Model) is a series of domain model engines. The China Party domain model engine includes the Ethnicity enum code, the Marital Status enum code, the Political Affiliation enum code, the Religion Faith enum code, the Formal Schooling enum code, the Blood Group enum code, and the Business Registration enum code.
+Unidom (统一领域对象模型)是一系列的领域模型引擎。中国参与者领域模型引擎包括民族、婚姻状况、政治面貌、宗教信仰、学历、血型、工商注册枚举编码。
 
 
 
