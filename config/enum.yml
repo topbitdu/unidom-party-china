@@ -515,12 +515,58 @@ enum:
     other:
       code: '9'
 
+  # 关于划分企业登记注册类型的规定 http://www.stats.gov.cn/tjsj/tjbz/200610/t20061018_8657.html
+  # 关于“个体经营”登记注册类型分类及代码的通知 国统办字（1999）2号 http://www.stats.gov.cn/tjsj/tjbz/200611/t20061123_8663.html
   unidom_china_business_registration:
+
     domestically_funded_company:
       code: '100'
+    state_owned_enterprise:
+      code: '110'
+    collective_owned_enterprise:
+      code: '120'
+    joint_stock_cooperative_enterprise:
+      code: '130'
+    joint_ownership_enterprise:
+      code: '140'
+    limited_liability_company:
+      code: '150'
+    joint_stock_limited_company:
+      code: '160'
+    private_company:
+      code: '170'
+    other_domestically_funded:
+      code: '190'
+
     taiwan_hk_macao_funded_enterprise:
       code: '200'
+    sino_taiwan_hk_macao_equity_joint_venture:
+      code: '210'
+    sino_taiwan_hk_macao_contractual_joint_venture:
+      code: '220'
+    taiwan_hk_macao_equity_joint_venture:
+      code: '230'
+    taiwan_hk_macao_funded_joint_stock_limited_company:
+      code: '240'
+    other_taiwan_hk_macao_funded:
+      code: '290'
+
     foreign_funded_enterprise:
       code: '300'
+    sino_foreign_equity_joint_venture:
+      code: '310'
+    sino_foreign_contractual_joint_venture:
+      code: '320'
+    foreign_foreign_equity_joint_venture:
+      code: '330'
+    foreign_funded_joint_stock_limited_company:
+      code: '340'
+    other_foreign_funded:
+      code: '390'
+
     self_employed_business:
       code: '400'
+    getihu:
+      code: '410'
+    gerenhehuo:
+      code: '420'
