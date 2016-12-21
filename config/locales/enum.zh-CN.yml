@@ -158,15 +158,34 @@
       ab_type:     AB型
       other:       其他
 
+    # 关于划分企业登记注册类型的规定 http://www.stats.gov.cn/tjsj/tjbz/200610/t20061018_8657.html
+    # 关于“个体经营”登记注册类型分类及代码的通知 国统办字（1999）2号 http://www.stats.gov.cn/tjsj/tjbz/200611/t20061123_8663.html
     unidom_china_business_registration:
-      domestically_funded_company:       内资企业
-      #state_owned_enterprise: 国有企业
-      #collective_enterprise:  集体企业
-      #joint_stock_enterprise: 股份合作企业
-      #joint_venture_enterprise: 联营企业
-      #state_owned_joint_venture_enterprise: 国有联营企业
-      #collective_joint_venture_enterprise:  集体联营企业
-      #state_owned_and_collective_joint_venture_enterprise: 国有与集体联营企业
-      taiwan_hk_macao_funded_enterprise: 港、澳、台商投资企业
-      foreign_funded_enterprise:         外商投资企业
+
+      domestically_funded_company:        内资企业
+      state_owned_enterprise:             国有企业
+      collective_owned_enterprise:        集体企业
+      joint_stock_cooperative_enterprise: 股份合作企业
+      joint_ownership_enterprise:         联营企业
+      limited_liability_company:          有限责任公司
+      joint_stock_limited_company:        股份有限公司
+      private_company:                    私营企业
+      other_domestically_funded:          其他企业
+
+      taiwan_hk_macao_funded_enterprise:                  港、澳、台商投资企业
+      sino_taiwan_hk_macao_equity_joint_venture:          合资经营企业（港或澳、台资）
+      sino_taiwan_hk_macao_contractual_joint_venture:     合作经营企业（港或澳、台资）
+      taiwan_hk_macao_equity_joint_venture:               港、澳、台商独资经营企业
+      taiwan_hk_macao_funded_joint_stock_limited_company: 港、澳、台商投资股份有限公司
+      other_taiwan_hk_macao_funded:                       其他港、澳、台商投资企业
+
+      foreign_funded_enterprise:                  外商投资企业
+      sino_foreign_equity_joint_venture:          中外合资经营企业
+      sino_foreign_contractual_joint_venture:     中外合作经营企业
+      foreign_foreign_equity_joint_venture:       外资企业
+      foreign_funded_joint_stock_limited_company: 外商投资股份有限公司
+      other_foreign_funded:                       其他外商投资企业
+
       self_employed_business:            个体经营
+      getihu: 个体户
+      gerenhehuo: 个人合伙
