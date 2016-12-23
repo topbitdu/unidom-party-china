@@ -25,3 +25,6 @@
 
 ## v0.7
 1. Business Registration enum code
+
+## v0.7.1
+1. Improve the Business Registration enum code
