@@ -1,3 +1,4 @@
+##
 # Ethnicity 是中国的民族代码。符合 GB/T 3304-1991 标准。
 # Alphabetic 基于字母代码，Numeric 基于数字代码。
 
