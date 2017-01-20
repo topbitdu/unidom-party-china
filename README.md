@@ -134,3 +134,19 @@ Unidom::Party::China::BusinessRegistration::FOREIGN_FUNDED_ENTERPRISE         # 
 Unidom::Party::China::BusinessRegistration::SELF_EMPLOYED_BUSINESS            # 个体经营
 # 一共 24 个工商注册类型。
 ```
+
+
+
+## Disable the Model & Migration
+
+If you only need the app components other than models, the migrations should be neglected, and the models should not be loaded.
+```ruby
+# config/initializers/unidom.rb
+Unidom::Common.configure do |options|
+
+  options[:neglected_namespaces] = %w{
+    Unidom::Party::China
+  }
+
+end
+```
