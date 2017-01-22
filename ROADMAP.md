@@ -36,3 +36,8 @@
 ## v0.7.3
 1. Improve the Ruby Gem Specification to depend on [unidom-common](https://github.com/topbitdu/unidom-common) v1.9
 2. Improve the models to support the namespace neglecting
+
+## v0.8
+1. Models RSpec examples manifest
+2. Types RSpec examples manifest
+3. Validators RSpec examples manifest
