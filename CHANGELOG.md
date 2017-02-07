@@ -27,7 +27,7 @@
 1. Business Registration enum code
 
 ## v0.7.1
-1. Improve the Business Registration enum code
+1. Improved the Business Registration enum code
 
 ## v0.7.2
 1. Improve the Ruby Gem Specification to depend on [unidom-common](https://github.com/topbitdu/unidom-common) v1.8
