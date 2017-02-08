@@ -30,7 +30,7 @@
 1. Improved the Business Registration enum code
 
 ## v0.7.2
-1. Improve the Ruby Gem Specification to depend on [unidom-common](https://github.com/topbitdu/unidom-common) v1.8
+1. Improved the Ruby Gem Specification to depend on [unidom-common](https://github.com/topbitdu/unidom-common) v1.8
 2. Improve the Engine class to include the Engine Extension
 
 ## v0.7.3
