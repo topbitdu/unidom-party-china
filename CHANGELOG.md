@@ -43,4 +43,4 @@
 3. Validators RSpec examples manifest
 
 ## v0.8.1
-1. Improve the Ethnicity Alphabetic spec to follow GB 3304-1991
+1. Improved the Ethnicity Alphabetic spec to follow GB 3304-1991
