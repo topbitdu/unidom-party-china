@@ -44,3 +44,6 @@
 
 ## v0.8.1
 1. Improve the Ethnicity Alphabetic spec to follow GB 3304-1991
+
+## v0.8.2
+1. Improved the Ruby Gem Specification to depend on unidom-common v1.10
